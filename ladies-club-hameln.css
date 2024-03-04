@@ -23,6 +23,7 @@
       cursor: pointer;      
       text-decoration: none;      
       text-transform: uppercase;
+  vertical-align:middle;
 }
 .button-1 {
       background-color: white;
