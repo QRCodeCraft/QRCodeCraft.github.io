@@ -33,3 +33,6 @@
 /*button on hover*/
  .button-1:hover {      background-color: #008CBA;      color: white; }
 }
+.content {
+  vertical-align:center;
+}
