@@ -23,9 +23,6 @@
       cursor: pointer;      
       text-decoration: none;      
       text-transform: uppercase;
-      position: absolute;
-      top: 50%;
-  vertical-align:middle;
   
 }
 .button-1 {
@@ -36,6 +33,16 @@
 /*button on hover*/
  .button-1:hover {      background-color: #008CBA;      color: white; }
 }
-.content {
-  vertical-align:center;
+.container { 
+  height: 200px;
+  position: relative;
+  border: 3px solid green; 
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
