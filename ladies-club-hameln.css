@@ -3,12 +3,13 @@
 }
 
 .button {
-    position: absolute;
-    top: 50%;
+    
 }
 
 /* CSS */
 .button-1 {
+    position: absolute;
+    top: 50%;
   color: #0099CC; 
 /* Remove background color */
       background: transparent; 
