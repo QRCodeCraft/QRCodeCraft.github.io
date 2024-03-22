@@ -1,11 +1,12 @@
 .wrapper {
-    text-align: center;
+    
 }
 
 /* CSS */
 .button-1 {
     position: absolute;
     top: 50%;
+    left: 50%;
   color: #0099CC; 
 /* Remove background color */
       background: transparent; 
