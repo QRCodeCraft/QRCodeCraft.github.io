@@ -2,10 +2,6 @@
     text-align: center;
 }
 
-.button {
-    
-}
-
 /* CSS */
 .button-1 {
     position: absolute;
@@ -28,27 +24,6 @@
       text-transform: uppercase;
   
 }
-.button-1 {
-      background-color: white;
-      color: black;
-      border: 2px solid #008CBA;
-}
 /*button on hover*/
  .button-1:hover {      background-color: #008CBA;      color: white; }
-}
-.container { 
-  height: 200px;
-  position: relative;
-  border: 3px solid green; 
-}
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  display: flex;
-  justify-content: center;
-  outline: solid 1px black;
 }
