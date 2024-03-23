@@ -4,25 +4,10 @@
 
 /* CSS */
 .button-1 {
-    position: relative;
+    position: absolute;
     top: 50%;
     left: 50%;
-  color: #0099CC; 
-/* Remove background color */
-      background: transparent; 
-/* Border thickness, line style, and color */
-      border: 2px solid #0099CC;
-/* Adds curve to border corners */
-      border-radius: 6px; 
-/* Make letters uppercase */
-      color: white;        
-      font-size: 16px;        
-      -webkit-transition-duration: 0.4s; 
-      /* Safari */      
-      transition-duration: 0.4s;      
-      cursor: pointer;      
-      text-decoration: none;      
-      text-transform: uppercase;
+  
   
 }
 /*button on hover*/
